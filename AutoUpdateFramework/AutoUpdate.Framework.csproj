@@ -46,6 +46,8 @@
   <ItemGroup>
     <Compile Include="UpdateChecker.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="VersionManifest.cs" />
+    <Compile Include="VersionManifestEntry.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
